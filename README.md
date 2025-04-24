@@ -1,24 +1,24 @@
-# 👋 Hi, I'm [Amir-Ali-Dev]!  
+# 👋 Hi, I'm Amir-Ali-Dev!  
 
 ### 💻 Full-Stack Developer | Open-Source Enthusiast  
 
 🔧 **Tech Stack:**  
-- **Frontend:** React , Next.js , TypeScript , TailwindCSS , Bootstrap , jquery
-- **Backend:** Node.js , Express , Django , PostgreSQL , Php , Python , 
+- **Frontend:** React, Next.js, TypeScript, TailwindCSS  
+- **Backend:** Node.js, Express, Django, PostgreSQL  
 - **DevOps:** Docker, AWS, CI/CD  
 - **Mobile:** React Native  
 
 🌱 **Currently Learning:** Go (Golang), Kubernetes  
 
-📂 **Featured Projects:**  
-- [E-Commerce MERN App]
-- [Task Manager with Django]
-- [React Native Weather App]  
+🚀 **Featured Projects:**  
+- [E-Commerce MERN App](https://github.com/you/repo)  
+- [Task Manager with Django](https://github.com/you/repo)  
+- [React Native Weather App](https://github.com/you/repo)  
 
-📫 **How to Reach Me:**  
-- LinkedIn: [Your LinkedIn]
-- Email: amiralihosseinzade169@gmail.com
-- Instagram: https://www.instagram.com/hos.senzade?igsh=aTR1aTlnajlvdng5
+📬 **How to Reach Me:**  
+- 📧 Email: amiralihosseinzade169@gmail.com  
+- 🔗 LinkedIn: [Your Profile(https://linkedin.com/in/yourusername)  
+- 📸 Instagram: [@hos.senzade](https://www.instagram.com/hos.senzade)  
 
-![Your GitHub Stats] 
-![Top Langs] 
+![GitHub Stats]
+![Top Langs]
