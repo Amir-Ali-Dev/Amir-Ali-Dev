@@ -18,7 +18,7 @@
 📫 **How to Reach Me:**  
 - LinkedIn: [Your LinkedIn]
 - Email: amiralihosseinzade169@gmail.com
-- Instagram: (https://www.instagram.com/hos.senzade?igsh=aTR1aTlnajlvdng5)
+- Instagram: https://www.instagram.com/hos.senzade?igsh=aTR1aTlnajlvdng5
 
 ![Your GitHub Stats] 
 ![Top Langs] 
