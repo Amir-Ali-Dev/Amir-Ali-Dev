@@ -17,7 +17,7 @@
 
 📬 **How to Reach Me:**  
 - 📧 Email: amiralihosseinzade169@gmail.com  
-- 🔗 LinkedIn: [Your Profile(https://linkedin.com/in/yourusername)  
+- 🔗 LinkedIn: (https://linkedin.com/in/yourusername)  
 - 📸 Instagram: [@hos.senzade](https://www.instagram.com/hos.senzade)  
 
 ![GitHub Stats]
