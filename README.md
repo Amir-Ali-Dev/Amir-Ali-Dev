@@ -5,24 +5,24 @@
 ## 🚀 𝔼𝕩𝕡𝕖𝕣𝕥𝕚𝕤𝕖
 
 - **𝓕𝓻𝓸𝓷𝓽𝓮𝓷𝓭**: ℛℯ𝒶𝒸𝓉, 𝒱𝓊ℯ, 𝒯𝒴℘ℯ𝒮𝒸𝓇𝒾℘𝓉, 𝒩ℯ𝓍𝓉.𝒿𝓈, 𝒯𝒶𝒾ℓ𝓌𝒾𝓃𝒹𝒞𝒮𝒮
-- **Backend**: Node.js, NestJS, Python, Django, Go
-- **Cloud & DevOps**: AWS, Azure, Docker, CI/CD pipelines
-- **Database**: MongoDB, MySQL, PostgreSQL
+- **𝓑𝓪𝓬𝓴𝓮𝓷𝓭**: 𝔑𝔬𝔡𝔢.𝔧𝔰, 𝔑𝔢𝔰𝔱𝔍𝔖, 𝔓𝔶𝔱𝔥𝔬𝔫, 𝔇𝔧𝔞𝔫𝔤𝔬, 𝔊𝔬
+- **𝓒𝓵𝓸𝓾𝓭 & 𝓓𝓮𝓿𝓞𝓹𝓼**: 𝒜𝒲𝒮, 𝒜𝓏𝓊𝓇𝑒, 𝒟𝑜𝒸𝓀𝑒𝓇, 𝒞𝐼/𝒞𝒟 𝓅𝒾𝓅𝑒𝓁𝒾𝓃𝑒𝓈
+- **𝓓𝓪𝓽𝓪𝓫𝓪𝓼𝓮**: 𝑀𝑜𝓃𝑔𝑜𝒟𝐵, 𝑀𝓎𝒮𝒬𝐿, 𝒫𝑜𝓈𝓉𝑔𝓇𝑒𝒮𝒬𝐿
 
-## 🌐 Connect With Me
+## 🌐 ℂ𝕠𝕟𝕟𝕖𝕔𝕥 𝕎𝕚𝕥𝕙 𝕄𝕖
 
 [![Email](https://img.shields.io/badge/Email-amiralihosseinzade169@gmail.com-D14836?logo=gmail&style=flat)](mailto:amiralihosseinzade169@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@hos.senzade-E4405F?logo=instagram&style=flat)](https://instagram.com/hos.senzade)
 
-## 🔧 Technical Toolbox
+## 🔧 𝓣𝓮𝓬𝓱𝓷𝓲𝓬𝓪𝓵 𝓣𝓸𝓸𝓵𝓫𝓸𝔁
 
-### Frontend
+### 𝓕𝓻𝓸𝓷𝓽𝓮𝓷𝓭
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 
-### Backend
+### 𝓑𝓪𝓬𝓴𝓮𝓷𝓭
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
