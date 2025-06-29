@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Amir Ali Hosseinzade 
+# 👋 𝐻𝒾, 𝐼'𝓂 𝔸𝕞𝕚𝕣𝔸𝕝𝕚 ℍ𝕠𝕤𝕤𝕖𝕚𝕟𝕫𝕒𝕕𝕖
 
-**Senior Full-Stack Engineer** specializing in modern web technologies with a focus on performance, scalability, and clean architecture.
+**𝒮𝑒𝓃𝒾𝑜𝓇 𝐹𝓊𝓁𝓁-𝒮𝓉𝒶𝒸𝓀 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇** 𝓈𝓅𝑒𝒸𝒾𝒶𝓁𝒾𝓏𝒾𝓃𝑔 𝒾𝓃 𝓂𝑜𝒹𝑒𝓇𝓃 𝓌𝑒𝒷 𝓉𝑒𝒸𝒽𝓃𝑜𝓁𝑜𝑔𝒾𝑒𝓈 𝓌𝒾𝓉𝒽 𝒶 𝒻𝑜𝒸𝓊𝓈 𝑜𝓃 𝓅𝑒𝓇𝒻𝑜𝓇𝓂𝒶𝓃𝒸𝑒, 𝓈𝒸𝒶𝓁𝒶𝒷𝒾𝓁𝒾𝓉𝓎, 𝒶𝓃𝒹 𝒸𝓁𝑒𝒶𝓃 𝒶𝓇𝒸𝒽𝒾𝓉𝑒𝒸𝓉𝓊𝓇𝑒.
 
-## 🚀 Expertise
+## 🚀 𝔼𝕩𝕡𝕖𝕣𝕥𝕚𝕤𝕖
 
-- **Frontend**: React, Vue, TypeScript, Next.js, TailwindCSS
+- **𝓕𝓻𝓸𝓷𝓽𝓮𝓷𝓭**: ℛℯ𝒶𝒸𝓉, 𝒱𝓊ℯ, 𝒯𝒴℘ℯ𝒮𝒸𝓇𝒾℘𝓉, 𝒩ℯ𝓍𝓉.𝒿𝓈, 𝒯𝒶𝒾ℓ𝓌𝒾𝓃𝒹𝒞𝒮𝒮
 - **Backend**: Node.js, NestJS, Python, Django, Go
 - **Cloud & DevOps**: AWS, Azure, Docker, CI/CD pipelines
 - **Database**: MongoDB, MySQL, PostgreSQL
