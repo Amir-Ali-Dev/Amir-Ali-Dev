@@ -14,7 +14,7 @@
 [![Email](https://img.shields.io/badge/Email-amiralihosseinzade169@gmail.com-D14836?logo=gmail&style=flat)](mailto:amiralihosseinzade169@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@hos.senzade-E4405F?logo=instagram&style=flat)](https://instagram.com/hos.senzade)
 
-## 🔧 𝓣𝓮𝓬𝓱𝓷𝓲𝓬𝓪𝓵 𝓣𝓸𝓸𝓵𝓫𝓸𝔁
+## 🔧 𝕋𝕖𝕔𝕙𝕟𝕚𝕔𝕒𝕝 𝕋𝕠𝕠𝕝𝕓𝕠𝕩
 
 ### 𝓕𝓻𝓸𝓷𝓽𝓮𝓷𝓭
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
@@ -28,12 +28,12 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 
-### DevOps & Cloud
+### 𝓒𝓵𝓸𝓾𝓭 & 𝓓𝓮𝓿𝓞𝓹𝓼
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 
-## 📈 GitHub Stats
+## 📈 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥𝕤
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amir-ali-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -44,7 +44,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amir-ali-dev&theme=radical" alt="GitHub Streak"/>
 </div>
 
-## 🏆 Top Contributions
+## 🏆 𝕋𝕠𝕡 ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟𝕤
 
 ![](https://github-contributor-stats.vercel.app/api?username=amir-ali-dev&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
