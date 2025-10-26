@@ -48,9 +48,3 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=amir-ali-dev&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/amir-ali-dev/count.svg" />
-</p>
