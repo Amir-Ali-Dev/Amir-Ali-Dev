@@ -171,18 +171,3 @@
 <p align="center">
   <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=amir-ali-dev&theme=transparent&hide_border=true&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" />
 </p>
-
-## Connect
-
-<p align="center">
-  <a href="mailto:amiralihosseinzade169@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/hos.senzade">
-    <img alt="Instagram" src="https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="./assets/open-source-footer.png" alt="Open source engineering footer" width="100%" />
-</p>
