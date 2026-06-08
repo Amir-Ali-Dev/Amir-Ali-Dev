@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm AmirAli Hosseinzade</h1>
-<h3 align="center">Senior Full-Stack Engineer building polished, scalable, production-ready web products.</h3>
+<h3 align="center">Backend & Full-Stack Developer building polished, practical web products.</h3>
 
 <p align="center">
   <a href="mailto:amiralihosseinzade169@gmail.com">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=760&lines=React+%2F+Next.js+%2F+Vue;Node.js+%2F+NestJS+%2F+Python+%2F+Go;Clean+architecture+%2B+beautiful+interfaces;Performance%2C+automation%2C+and+reliable+delivery" />
+  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=760&lines=Node.js+%2F+NestJS+%2F+TypeScript;React+%2F+MySQL+%2F+Docker+%2F+Linux;DDoS+defense+research+and+labs;Clean+backend+systems+with+usable+interfaces" />
 </p>
 
 ---
@@ -28,19 +28,60 @@
     <td width="54%" valign="top">
       <p>
         I build modern web platforms from the interface down to the API,
-        database, deployment pipeline, and monitoring layer. I care about
-        fast products, clean architecture, readable code, and experiences
-        that feel sharp the moment people open them.
+        database, deployment workflow, and server environment. I care about
+        readable code, useful product details, clean backend boundaries, and
+        interfaces that feel sharp the moment people open them.
       </p>
       <ul>
-        <li>Frontend systems with React, Vue, Next.js, TypeScript, and Tailwind CSS.</li>
-        <li>Backend services with Node.js, NestJS, Python, Django, and Go.</li>
-        <li>Databases, APIs, CI/CD, cloud deployment, and production reliability.</li>
-        <li>Performance, maintainability, clean UX, and practical engineering decisions.</li>
+        <li>Main stack: Node.js, NestJS, TypeScript, MySQL, Linux, Docker, and React.</li>
+        <li>Focused on backend structure, APIs, authentication, database design, and deployment.</li>
+        <li>Comfortable building the full product path from dashboard UI to server automation.</li>
+        <li>Interested in security research, infrastructure labs, and reliable hosting workflows.</li>
       </ul>
     </td>
     <td width="46%" valign="top">
       <img src="./assets/architecture-lab.png" alt="Full-stack architecture illustration" width="100%" />
+    </td>
+  </tr>
+</table>
+
+## Currently Building
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>DDoS Defense Research</h3>
+      <p>Research notes, diagrams, labs, traffic analysis, mitigation ideas, and practical defense examples.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Hosting Infrastructure Lab</h3>
+      <p>Linux server setup, Docker workflows, deployment automation, monitoring, and repeatable hosting patterns.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Full-Stack SaaS Platform</h3>
+      <p>A product-focused web platform with NestJS, React, MySQL, authentication, dashboards, and clean admin flows.</p>
+    </td>
+  </tr>
+</table>
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>DDoS Defense Research</h3>
+      <p>Research, diagrams, lab scenarios, and mitigation examples focused on understanding attacks and building defensive thinking.</p>
+      <p><strong>Stack:</strong> Linux, networking, documentation, diagrams</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Full-Stack E-Commerce</h3>
+      <p>A complete product flow with backend APIs, database models, admin management, frontend pages, and practical checkout logic.</p>
+      <p><strong>Stack:</strong> NestJS, React, TypeScript, MySQL</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Hosting Infrastructure Lab</h3>
+      <p>Server setup experiments, Dockerized services, automation scripts, deployment notes, and hosting reliability practice.</p>
+      <p><strong>Stack:</strong> Linux, Docker, Node.js, automation</p>
     </td>
   </tr>
 </table>
@@ -70,60 +111,47 @@
 
 ## Tech Toolbox
 
+<h3 align="center">Core Stack</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,nodejs,nestjs,python,django,go,docker,aws,azure,postgres,mongodb,mysql,githubactions,git,linux&perline=10" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,mysql,linux,docker,react&perline=7" alt="Core tech stack icons" />
 </p>
 
 <p align="center">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1E40AF?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-14532D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-991B1B?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-1D4ED8?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1E40AF?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-334155?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-0F766E?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-334155?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-## GitHub Analytics
+<h3 align="center">Also Familiar With</h3>
+
+<p align="center">
+  <code>Next.js</code>
+  <code>Vue</code>
+  <code>Tailwind CSS</code>
+  <code>Python</code>
+  <code>Django</code>
+  <code>Go</code>
+  <code>PostgreSQL</code>
+  <code>MongoDB</code>
+  <code>AWS</code>
+  <code>Azure</code>
+  <code>GitHub Actions</code>
+</p>
+
+## GitHub Snapshot
 
 <p align="center">
   <img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amir-ali-dev&theme=github_dark" width="100%" />
 </p>
 
 <p align="center">
-  <img alt="GitHub stats summary" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amir-ali-dev&theme=github_dark" />
-  <img alt="Most committed languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amir-ali-dev&theme=github_dark" />
-  <img alt="Repository languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amir-ali-dev&theme=github_dark" />
-  <img alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amir-ali-dev&theme=github_dark&utcOffset=3.5" />
-</p>
-
-<p align="center">
   <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=amir-ali-dev&theme=transparent&hide_border=true&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" />
 </p>
-
-<p align="center">
-  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=amir-ali-dev&custom_title=Contribution%20Activity&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=F97316&area=true&hide_border=true" />
-</p>
-
-## What I Like To Build
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Product Interfaces</h3>
-      <p>Dashboards, panels, SaaS tools, admin systems, and polished web apps that are easy to scan and use.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>API Platforms</h3>
-      <p>Clear service boundaries, reliable authentication, clean data models, and maintainable backend workflows.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Automation</h3>
-      <p>CI/CD, Dockerized delivery, monitoring, server workflows, and repeatable systems that reduce manual work.</p>
-    </td>
-  </tr>
-</table>
 
 ## Connect
 
