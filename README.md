@@ -1,50 +1,135 @@
-# 👋 𝐻𝒾, 𝐼'𝓂 𝔸𝕞𝕚𝕣𝔸𝕝𝕚 ℍ𝕠𝕤𝕤𝕖𝕚𝕟𝕫𝕒𝕕𝕖
+<p align="center">
+  <img src="./assets/profile-hero.png" alt="Premium developer workspace banner" width="100%" />
+</p>
 
-**𝒮𝑒𝓃𝒾𝑜𝓇 𝐹𝓊𝓁𝓁-𝒮𝓉𝒶𝒸𝓀 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇** 𝓈𝓅𝑒𝒸𝒾𝒶𝓁𝒾𝓏𝒾𝓃𝑔 𝒾𝓃 𝓂𝑜𝒹𝑒𝓇𝓃 𝓌𝑒𝒷 𝓉𝑒𝒸𝒽𝓃𝑜𝓁𝑜𝑔𝒾𝑒𝓈 𝓌𝒾𝓉𝒽 𝒶 𝒻𝑜𝒸𝓊𝓈 𝑜𝓃 𝓅𝑒𝓇𝒻𝑜𝓇𝓂𝒶𝓃𝒸𝑒, 𝓈𝒸𝒶𝓁𝒶𝒷𝒾𝓁𝒾𝓉𝓎, 𝒶𝓃𝒹 𝒸𝓁𝑒𝒶𝓃 𝒶𝓇𝒸𝒽𝒾𝓉𝑒𝒸𝓉𝓊𝓇𝑒.
+<h1 align="center">Hi, I'm AmirAli Hosseinzade</h1>
+<h3 align="center">Senior Full-Stack Engineer building polished, scalable, production-ready web products.</h3>
 
-## 🚀 𝔼𝕩𝕡𝕖𝕣𝕥𝕚𝕤𝕖
+<p align="center">
+  <a href="mailto:amiralihosseinzade169@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-amiralihosseinzade169%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/hos.senzade">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%40hos.senzade-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=amir-ali-dev&style=for-the-badge&color=0ea5e9" />
+</p>
 
-- **𝓕𝓻𝓸𝓷𝓽𝓮𝓷𝓭**: ℛℯ𝒶𝒸𝓉, 𝒱𝓊ℯ, 𝒯𝒴℘ℯ𝒮𝒸𝓇𝒾℘𝓉, 𝒩ℯ𝓍𝓉.𝒿𝓈, 𝒯𝒶𝒾ℓ𝓌𝒾𝓃𝒹𝒞𝒮𝒮
-- **𝓑𝓪𝓬𝓴𝓮𝓷𝓭**: 𝔑𝔬𝔡𝔢.𝔧𝔰, 𝔑𝔢𝔰𝔱𝔍𝔖, 𝔓𝔶𝔱𝔥𝔬𝔫, 𝔇𝔧𝔞𝔫𝔤𝔬, 𝔊𝔬
-- **𝓒𝓵𝓸𝓾𝓭 & 𝓓𝓮𝓿𝓞𝓹𝓼**: 𝒜𝒲𝒮, 𝒜𝓏𝓊𝓇𝑒, 𝒟𝑜𝒸𝓀𝑒𝓇, 𝒞𝐼/𝒞𝒟 𝓅𝒾𝓅𝑒𝓁𝒾𝓃𝑒𝓈
-- **𝓓𝓪𝓽𝓪𝓫𝓪𝓼𝓮**: 𝑀𝑜𝓃𝑔𝑜𝒟𝐵, 𝑀𝓎𝒮𝒬𝐿, 𝒫𝑜𝓈𝓉𝑔𝓇𝑒𝒮𝒬𝐿
+<p align="center">
+  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=760&lines=React+%2F+Next.js+%2F+Vue;Node.js+%2F+NestJS+%2F+Python+%2F+Go;Clean+architecture+%2B+beautiful+interfaces;Performance%2C+automation%2C+and+reliable+delivery" />
+</p>
 
-## 🌐 ℂ𝕠𝕟𝕟𝕖𝕔𝕥 𝕎𝕚𝕥𝕙 𝕄𝕖
+---
 
-[![Email](https://img.shields.io/badge/Email-amiralihosseinzade169@gmail.com-D14836?logo=gmail&style=flat)](mailto:amiralihosseinzade169@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@hos.senzade-E4405F?logo=instagram&style=flat)](https://instagram.com/hos.senzade)
+## About
 
-## 🔧 𝕋𝕖𝕔𝕙𝕟𝕚𝕔𝕒𝕝 𝕋𝕠𝕠𝕝𝕓𝕠𝕩
+<table>
+  <tr>
+    <td width="54%" valign="top">
+      <p>
+        I build modern web platforms from the interface down to the API,
+        database, deployment pipeline, and monitoring layer. I care about
+        fast products, clean architecture, readable code, and experiences
+        that feel sharp the moment people open them.
+      </p>
+      <ul>
+        <li>Frontend systems with React, Vue, Next.js, TypeScript, and Tailwind CSS.</li>
+        <li>Backend services with Node.js, NestJS, Python, Django, and Go.</li>
+        <li>Databases, APIs, CI/CD, cloud deployment, and production reliability.</li>
+        <li>Performance, maintainability, clean UX, and practical engineering decisions.</li>
+      </ul>
+    </td>
+    <td width="46%" valign="top">
+      <img src="./assets/architecture-lab.png" alt="Full-stack architecture illustration" width="100%" />
+    </td>
+  </tr>
+</table>
 
-### 𝓕𝓻𝓸𝓷𝓽𝓮𝓷𝓭
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+## Engineering Focus
 
-### 𝓑𝓪𝓬𝓴𝓮𝓷𝓭
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/frontend-craft.png" alt="Frontend craft and design systems" width="100%" />
+      <h3>Frontend Craft</h3>
+      <p>
+        Responsive interfaces, component systems, accessible UI, motion,
+        state management, and details that make products feel finished.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/backend-devops.png" alt="Backend and DevOps infrastructure" width="100%" />
+      <h3>Backend & DevOps</h3>
+      <p>
+        APIs, authentication, databases, automation, containers, cloud,
+        monitoring, and systems built to stay understandable as they grow.
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 𝓒𝓵𝓸𝓾𝓭 & 𝓓𝓮𝓿𝓞𝓹𝓼
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+## Tech Toolbox
 
-## 📈 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥𝕤
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,nodejs,nestjs,python,django,go,docker,aws,azure,postgres,mongodb,mysql,githubactions,git,linux&perline=10" alt="Tech stack icons" />
+</p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amir-ali-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-ali-dev&layout=compact&langs_count=8&theme=radical"/>
-</div>
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1E40AF?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-14532D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-991B1B?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-1D4ED8?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0F766E?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-334155?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amir-ali-dev&theme=radical" alt="GitHub Streak"/>
-</div>
+## GitHub Analytics
 
-## 🏆 𝕋𝕠𝕡 ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟𝕤
+<p align="center">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=amir-ali-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=C9D1D9&icon_color=F97316" />
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-ali-dev&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=C9D1D9" />
+</p>
 
-![](https://github-contributor-stats.vercel.app/api?username=amir-ali-dev&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<p align="center">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=amir-ali-dev&theme=transparent&hide_border=true&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" />
+</p>
 
+<p align="center">
+  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=amir-ali-dev&custom_title=Contribution%20Activity&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=F97316&area=true&hide_border=true" />
+</p>
+
+## What I Like To Build
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Product Interfaces</h3>
+      <p>Dashboards, panels, SaaS tools, admin systems, and polished web apps that are easy to scan and use.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>API Platforms</h3>
+      <p>Clear service boundaries, reliable authentication, clean data models, and maintainable backend workflows.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Automation</h3>
+      <p>CI/CD, Dockerized delivery, monitoring, server workflows, and repeatable systems that reduce manual work.</p>
+    </td>
+  </tr>
+</table>
+
+## Connect
+
+<p align="center">
+  <a href="mailto:amiralihosseinzade169@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/hos.senzade">
+    <img alt="Instagram" src="https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="./assets/open-source-footer.png" alt="Open source engineering footer" width="100%" />
+</p>
