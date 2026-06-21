@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/amirali-profile-hero.jpg" alt="AmirAli — systems, security, and interface craft" width="100%" />
+</p>
+
 <div align="center">
 
 # AmirAli Hosseinzade
